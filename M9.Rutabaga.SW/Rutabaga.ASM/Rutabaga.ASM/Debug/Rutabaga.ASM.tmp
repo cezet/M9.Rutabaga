@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools 4\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+  <FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\divlib.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\Debug/Rutabaga.ASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Rutabaga.ASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Rutabaga.ASM.map</FILE>
+  <FILE>Rutabaga.ASM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>26</LINE></Reset>
+  <TIMER0_COMPA><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>147</LINE></TIMER0_COMPA>
+  <MAIN><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>84</LINE></MAIN>
+  <status_check_auto><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>96</LINE></status_check_auto>
+  <status_check_man><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>91</LINE></status_check_man>
+  <status_check_end><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>99</LINE></status_check_end>
+  <BUTTON1_START><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>103</LINE></BUTTON1_START>
+  <BUTTON1_END><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>107</LINE></BUTTON1_END>
+  <BUTTON2_START><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>111</LINE></BUTTON2_START>
+  <BUTTON2_END><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>115</LINE></BUTTON2_END>
+  <div8s><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\divlib.inc</FILE><LINE>34</LINE></div8s>
+  <LED_Table><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>183</LINE></LED_Table>
+  <digit0><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>151</LINE></digit0>
+  <digit1><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>166</LINE></digit1>
+  <led_end><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\main.asm</FILE><LINE>176</LINE></led_end>
+  <d8s_1><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\divlib.inc</FILE><LINE>42</LINE></d8s_1>
+  <d8s_2><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\divlib.inc</FILE><LINE>49</LINE></d8s_2>
+  <d8s_3><FILE>C:\Users\czoper\Documents\GitHub\M9.Rutabaga\M9.Rutabaga.SW\Rutabaga.ASM\Rutabaga.ASM\divlib.inc</FILE><LINE>55</LINE></d8s_3>
+ </LABELS>
+</ASSEMBLER_INFO>

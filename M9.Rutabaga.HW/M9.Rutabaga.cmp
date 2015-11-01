@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-01 BZR unknown)-product   date = 11/10/2015 16:47:15
+
+BeginCmp
+TimeStamp = /55867CCB;
+Reference = AFF1;
+ValeurCmp = DA04-11;
+IdModule  = Displays_7-Segment:AFF_2x7SEG-DIGIT_10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /558697D5;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Discret:CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /55869C30;
+Reference = C2;
+ValeurCmp = Csmall;
+IdModule  = Discret:CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /55869C77;
+Reference = C3;
+ValeurCmp = Csmall;
+IdModule  = Discret:CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /55867B7E;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55867CA6;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55867DE6;
+Reference = D3;
+ValeurCmp = BRIDGE;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /558679DE;
+Reference = IC1;
+ValeurCmp = ATTINY2313A-P;
+IdModule  = Housings_DIP:DIP-20_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = /561979AA;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55867E56;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5619AF53;
+Reference = P2;
+ValeurCmp = CONN_3X2;
+IdModule  = Pin_Headers:Pin_Header_Angled_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /56196453;
+Reference = Q1;
+ValeurCmp = BC817-40;
+IdModule  = Housings_TO-92:TO-92_Horizontal1_Inline_Narrow_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /561964D6;
+Reference = Q2;
+ValeurCmp = BC817-40;
+IdModule  = Housings_TO-92:TO-92_Horizontal1_Inline_Narrow_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DB6B19;
+Reference = Q3;
+ValeurCmp = BC556;
+IdModule  = Housings_TO-92:TO-92_Horizontal1_Inline_Narrow_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DB6C94;
+Reference = Q4;
+ValeurCmp = BC556;
+IdModule  = Housings_TO-92:TO-92_Horizontal1_Inline_Narrow_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /5586A73F;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5586959B;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5586A6CE;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56194F09;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /561950DA;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /55867B21;
+Reference = SW1;
+ValeurCmp = DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55867ABD;
+Reference = SW2;
+ValeurCmp = DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55867A4C;
+Reference = SW3;
+ValeurCmp = DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55867D4B;
+Reference = T1;
+ValeurCmp = TRANSFO;
+IdModule  = moje:TEZ_2D;
+EndCmp
+
+BeginCmp
+TimeStamp = /55867FCD;
+Reference = U1;
+ValeurCmp = 7805;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+EndListe
